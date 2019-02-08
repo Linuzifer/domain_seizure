@@ -1,59 +1,70 @@
+<!DOCTYPE html>
 <html>
-<style>
-html,
-body {
-  background-color: black;
-}
 
-.seized {
-  margin: auto;
-  padding-top: 9%;
-  width: 80%;
-  max-width: 1920px;
-  height: 100%;
-  background-repeat: no-repeat;
-  background-image: url("seized.png");
-  background-size: contain;
-  color: white;
-  text-align: center;
-  font-size: 25px;
-}
-
-@media screen and (min-width: 400px) {
-  .seized {
-    font-size: 30px;
+<head>
+  <title>Domain Seizure</title>
+  <style>
+  html,
+  body {
+    background-color: black;
   }
-}
 
-@media screen and (min-width: 600px) {
   .seized {
-    font-size: 40px;
+    margin: auto;
+    padding-top: 9%;
+    width: 80vw;
+    max-width: 1920px;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-image: url("seized.png");
+    background-size: contain;
+    color: white;
+    text-align: center;
+    font-size: 25px;
   }
-}
 
-@media screen and (min-width: 800px) {
-  .seized {
-    font-size: 50px;
+  @media screen and (min-width: 400px) {
+    .seized {
+      font-size: 30px;
+    }
   }
-}
 
-@media screen and (min-width: 1000px) {
-  .seized {
-    font-size: 70px;
+  @media screen and (min-width: 600px) {
+    .seized {
+      font-size: 40px;
+    }
   }
-}
 
-@media screen and (min-width: 1200px) {
-  .seized {
-    font-size: 80px;
+  @media screen and (min-width: 800px) {
+    .seized {
+      font-size: 50px;
+    }
   }
-}
-</style>
-<div class="seized">
-  <script>
-    document.write(window.location.hostname)
-  </script>
-</div>
-<!-- Fork me on Github: https://github.com/Linuzifer/domain_seizure -->
+
+  @media screen and (min-width: 1000px) {
+    .seized {
+      font-size: 70px;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .seized {
+      font-size: 80px;
+    }
+  }
+  </style>
+</head>
+
+<body>
+  <div class="seized">
+    <script type="text/javascript" src="puny-min.js"></script>
+    <script>
+      var rawDomainName = window.location.hostname
+      var domainName = (rawDomainName.startsWith('xn--')) ? punyDecodeDomain(rawDomainName) : rawDomainName
+      document.write(domainName)
+    </script>
+  </div>
+  <!-- Fork me on Github: https://github.com/Linuzifer/domain_seizure -->
+</body>
 
 </html>
