@@ -4,13 +4,14 @@ forked from [xDedic domain seizure notification](https://xdedic.biz).
 
 ## Features
 
-* *Automated:* Domain name is automatically filled in, so FBI agents do not need to shoop new notification JPEGs for each seized domain
+* *Automated:* Domain name is automatically filled in, so FBI agents do not need to 'shop new notification JPEGs for each seized domain
 * *Mobile first:* Automated screen size adjustment
+* *Punycode:* International domain names are fully supported
 
 ## Instructions
 
 1. Seize domain
-1. Copy index.html and seized.png to webroot
+1. Copy index.html, seized.png and puny-min.js to webroot
 
 ## License
 
