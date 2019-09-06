@@ -24,6 +24,7 @@ forked from [Deutschland im Deepweb](http://germanyhusicaysx.onion/).
 ### Features
 
 * *Mobile first:* Automated screen size adjustment
+* *Accessibility:* Fully compatible with screen readers & braille displays.
 
 ### Instructions
 
