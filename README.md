@@ -1,19 +1,36 @@
-# FBI domain seizure page
+# Ready to use mobile-friendly domain seizure pages
+
+Collection of domain seizure pages adapted to the 21st century.
+
+## FBI domain seizure page
 
 forked from [xDedic domain seizure notification](https://xdedic.biz).
 
-## Features
+### Features
 
 * *Automated:* Domain name is automatically filled in, so FBI agents do not need to 'shop new notification JPEGs for each seized domain
 * *Mobile first:* Automated screen size adjustment
 * *Punycode:* International domain names are fully supported
 
-## Instructions
+### Instructions
 
 1. Seize domain
 1. Copy index.html, seized.png and puny-min.js to webroot
 
-## License
+## BKA / Generalstaatsanwaltschaft Frankfurt Main seizure page
+
+forked from [Deutschland im Deepweb](http://germanyhusicaysx.onion/).
+
+### Features
+
+* *Mobile first:* Automated screen size adjustment
+
+### Instructions
+
+1. Seize hidden service
+1. Copy index.html and banner.jpg to webroot
+
+# License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
