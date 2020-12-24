@@ -1,0 +1,4 @@
+# Allow crawling since we serve everything with 200 and <meta http-equiv="Status" content="410 Gone"/>.
+
+User-agent: *
+Disallow:

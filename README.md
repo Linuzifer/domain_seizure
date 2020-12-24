@@ -59,6 +59,13 @@ forked from [kboxserv.com](http://kboxserv.com/).
 1. Seize website
 1. Copy ``swiss`` folder contents to webroot
 
+## Finnish Customs, Cybercrime Department of Provincial Police Headquarters in Wrocław with the support of Europol and Eurojust seizure page
+
+1. Seize hidden page
+2. Copy './europol' folder to webroot
+
+forked 12/2020
+
 # License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

@@ -1,0 +1,133 @@
+body {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+
+  background: #fff url('../images/background.jpg') no-repeat center fixed;
+  background-size: cover;
+  color: #fff;
+}
+
+.display-3 {
+    font-weight: 600;
+    font-size: 3.8rem;
+    text-transform: uppercase;
+    color: #F00004;
+}
+
+.display-2 {
+    font-family: arial;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.display-text {
+    font-family: arial;
+    font-size: 0.9rem;
+	font-weight: normal;	
+    text-align: center;
+	color:  #ffd300;
+	padding-top: 2rem;
+}
+
+.header,
+.marketing,
+.footer {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.header {
+  padding-bottom: 1rem;
+  border-bottom: .05rem solid #e5e5e5;
+}
+
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 3rem;
+  color: #fff;
+}
+
+body > .container {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 15px;
+  border-radius: .3rem;
+}
+
+.footer {
+  padding: 1.5rem;
+  color: #777;
+  border-top: .05rem solid #e5e5e5;
+}
+
+@media (min-width: 48em) {
+  .container {
+    max-width: 80rem;
+  }
+}
+.container-narrow > hr {
+  margin: 2rem 0;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-bottom: .05rem solid #e5e5e5;
+}
+.jumbotron .btn {
+  padding: .75rem 1.5rem;
+  font-size: 1.5rem;
+}
+
+.marketing {
+  margin: 3rem 0;
+}
+.marketing p + h4 {
+  margin-top: 1.5rem;
+}
+
+@media screen and (min-width: 48em) {
+  .header,
+  .marketing,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  .header {
+    margin-bottom: 2rem;
+  }
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
+
+.footer img {
+    max-height: 6em;
+    display: block;
+    margin: 0 auto;	
+}
+
+.flexbox {
+	display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-fluid img {
+    max-height: 6em;
+    display: block;
+    margin: 0 auto;	
+}
+
+.footer .container {
+    justify-content: center;
+    align-items: center;
+}
+
+.top-buffer { 
+	margin-top:30px; 
+}
+a {
+	color: #75b0fc;
+}
