@@ -72,6 +72,20 @@ forked from [doublevpn.com](https://www.doublevpn.com).
 1. Seize website
 1. Copy ``doublevpn`` folder contents to webroot
 
+## Clearingstelle Urheberrecht im Internet
+
+forked from [notice.cuii.info](https://notice.cuii.info).
+
+### Features
+
+* *Instant Torrenting:* Link to world's most popular BitTorrent site
+
+### Instructions
+
+1. Set up a web server
+1. Copy ``cuii`` folder contents to webroot
+1. Set up a rogue DNS server
+1. Redirect unwanted domain name requests to your web server
 
 # License
 
