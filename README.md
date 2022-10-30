@@ -31,6 +31,19 @@ forked from [Deutschland im Deepweb](http://germanyhusicaysx.onion/).
 1. Seize hidden service
 1. Copy index.html and banner.jpg to webroot
 
+## BKA / Zentralstelle Cybercrime Bayern seizure page
+
+forked from [Deutschland im Deepweb 3](http://germany2igel45jbmjdipfbzdswjcpjqzqozxt4l33452kzrrda2rbid.onion/).
+
+### Features
+
+* *Animations:* Innovative fade in entrance animation
+
+### Instructions
+
+1. Seize hidden service
+1. Copy index.html and banner.jpg to webroot
+
 ## LKA Rhineland-Palatinate / Attorney General's Office Koblenz seizure page
 
 forked from [cb3rob.org](http://cb3rob.org/).
