@@ -85,6 +85,20 @@ forked from [doublevpn.com](https://www.doublevpn.com).
 1. Seize website
 1. Copy ``doublevpn`` folder contents to webroot
 
+## Homeland Security Investigations, High Intensity Drug Trafficking Areas program, Department of Justice, Drug Enforcement Administration, United States Postal Inspection Service, Maryland State Police, Organized Crime Drug Enforcement Task Forces, Montgomery County Department of Police, Politie, Guardia Civil, National Crime Agency
+
+forked from [lizardlabs.eu](http://lizardlabs.eu/).
+
+### Features
+
+* *Background video:* Full screen video background
+* *Autoplay:* Background video starts automatically
+
+### Instructions
+
+1. Seize website
+1. Copy ``hsi`` folder contents to webroot
+
 ## Clearingstelle Urheberrecht im Internet
 
 forked from [notice.cuii.info](https://notice.cuii.info).
