@@ -16,6 +16,9 @@ forked from [xDedic domain seizure notification](https://xdedic.biz).
 
 #### Instructions
 
+1. Seize domain
+1. Copy index.html, seized.png and puny-min.js to webroot
+
 ### 2023
 
 forked from [Hive](http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion).
