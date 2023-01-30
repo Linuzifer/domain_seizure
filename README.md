@@ -4,18 +4,30 @@ Collection of domain seizure pages adapted to the 21st century.
 
 ## FBI domain seizure page
 
+### 2019
+
 forked from [xDedic domain seizure notification](https://xdedic.biz).
 
-### Features
+#### Features
 
 * *Automated:* Domain name is automatically filled in, so FBI agents do not need to 'shop new notification JPEGs for each seized domain
 * *Mobile first:* Automated screen size adjustment
 * *Punycode:* International domain names are fully supported
 
-### Instructions
+#### Instructions
+
+### 2023
+
+forked from [Hive](http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion).
+
+#### Features
+
+* *Animated gif:* In a boost to leverage the full potential of web 1.0 technologies, localization is offered via an animated gif
+
+#### Instructions
 
 1. Seize domain
-1. Copy index.html, seized.png and puny-min.js to webroot
+1. Copy index.html and seizure.gif to webroot
 
 ## BKA / Generalstaatsanwaltschaft Frankfurt Main seizure page
 
@@ -99,6 +111,19 @@ forked from [notice.cuii.info](https://notice.cuii.info).
 1. Copy ``cuii`` folder contents to webroot
 1. Set up a rogue DNS server
 1. Redirect unwanted domain name requests to your web server
+
+## Polizeidirektion Hannover, Staatsanwaltschaft Verden
+
+forked from [vpnlab.net](http://vpnlab.net/).
+
+### Features
+
+* *Automated Domain Name:* Seized domain name is automatically inserted
+
+### Instructions
+
+1. Seize website
+1. Copy ``pol_hannover`` folder contents to webroot
 
 # License
 
