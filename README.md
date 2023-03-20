@@ -141,6 +141,23 @@ forked from [bitzlato.com](https://bitzlato.com).
 1. Seize website
 1. Copy ``comcybergend`` folder contents to webroot 
 
+## BKA, Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT)
+
+forked from [ChipMixer](http://chipmixorflykuxu56uxy7gf5o6ggig7xru7dnihc4fm4cxqsc63e6id.onion/mix.html)
+
+### Features
+
+* *Animations:* Innovative fade in entrance animation
+* *Accessibility:* Fully compatible with screen readers & braille displays
+* *Resocializing:*  Integrates cyber criminals into wage labor with an attractive job offering
+
+### Instructions
+
+1. Seize website
+1. Insert ``<body>`` content from ``index.html`` into desired ``html`` file on seized website
+1. Insert content from ``hello.css`` into related ``css`` file on seized website
+1. Copy ``banner.png`` to seized website
+
 # License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
