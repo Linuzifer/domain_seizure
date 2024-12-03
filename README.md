@@ -2,6 +2,15 @@
 
 Collection of domain seizure pages adapted to the 21st century.
 
+## bustedcrime network
+
+First multimedia seizure page embedding a German language video featuring
+
+* synthwave music
+* 1980s pixel art
+
+Wow.
+
 ## FBI domain seizure page
 
 ### 2019
