@@ -1,0 +1,42 @@
+/* https://www.karriere.bka.de/ */
+#site-footer p a {
+	color:  #FFF;
+	text-decoration: none;
+}
+
+#site-footer p a.text-bold {
+	font-weight: 600;
+}
+
+#chipmixer {
+	position: relative;
+	animation: 4s ease-out 2s 1 normal forwards running chipmixer;
+}
+
+#banner {
+	position: absolute;
+	width: 100vw;
+	height: auto;
+	display: block;
+	transform: translateY(-100%);
+	animation: 3s ease-out 3s 1 normal forwards running banner;
+}
+
+@keyframes banner {
+	0% {
+		transform: translateY(-100%);
+	}
+	100% {
+		transform: translateY(0);
+	}
+}
+
+@keyframes chipmixer {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+		visibility: hidden;
+	}
+}
